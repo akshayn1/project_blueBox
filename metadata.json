@@ -6,27 +6,14 @@
     "Spreadsheets",
     "Others"
   ],
-  "files": [
-    {
-      "id": "8d86ab5c-853d-4117-aa75-d3eb03052886",
-      "name": "Bluetooth_Mesh_Network_App.pdf",
-      "category": "Presentations",
-      "currentVersion": 1,
-      "versions": [
-        {
-          "version": 1,
-          "path": "files/8d86ab5c-853d-4117-aa75-d3eb03052886_v1.pdf",
-          "sha": "29bc64152fc781daaefec091a90d5b771f7e2f26",
-          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/8d86ab5c-853d-4117-aa75-d3eb03052886_v1.pdf",
-          "uploader": "Alice",
-          "timestamp": "2026-08-15T06:49:23.810Z",
-          "size": 506886,
-          "note": "initial"
-        }
-      ]
-    }
-  ],
+  "files": [],
   "activity": [
+    {
+      "action": "Deleted",
+      "file": "Bluetooth_Mesh_Network_App.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-08-15T08:29:16.602Z"
+    },
     {
       "action": "Uploaded",
       "file": "Bluetooth_Mesh_Network_App.pdf",
