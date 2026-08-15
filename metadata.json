@@ -23,9 +23,33 @@
           "note": "First Upload"
         }
       ]
+    },
+    {
+      "id": "a6e965b3-287a-42f3-97bf-9478ffc13869",
+      "name": "proxy 0001.pptx",
+      "category": "Zeroth Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/a6e965b3-287a-42f3-97bf-9478ffc13869_v1.pptx",
+          "sha": "4a335c35a08d087f8152397e0b3318612f5ec370",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/a6e965b3-287a-42f3-97bf-9478ffc13869_v1.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-08-15T08:32:59.524Z",
+          "size": 738968,
+          "note": "First Upload"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "proxy 0001.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-08-15T08:32:59.524Z"
+    },
     {
       "action": "Uploaded",
       "file": "Bluetooth_Mesh_Network_App.pptx",
