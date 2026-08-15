@@ -10,7 +10,7 @@
       "id": "a60fedc4-253b-48a4-991a-99f6856e953f",
       "name": "Bluetooth_Mesh_Network_App.pptx",
       "category": "Zeroth Review",
-      "currentVersion": 2,
+      "currentVersion": 3,
       "versions": [
         {
           "version": 1,
@@ -31,6 +31,16 @@
           "timestamp": "2026-08-15T08:35:04.867Z",
           "size": 79625,
           "note": "for test "
+        },
+        {
+          "version": 3,
+          "path": "files/a60fedc4-253b-48a4-991a-99f6856e953f_v3.pptx",
+          "sha": "5be0eda6534648b0140670ae52372cbe5d30eb4a",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/a60fedc4-253b-48a4-991a-99f6856e953f_v3.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-08-15T08:35:57.037Z",
+          "size": 738588,
+          "note": "All correct ppt"
         }
       ]
     },
@@ -72,6 +82,12 @@
     }
   ],
   "activity": [
+    {
+      "action": "New version",
+      "file": "Bluetooth_Mesh_Network_App.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-08-15T08:35:57.037Z"
+    },
     {
       "action": "New version",
       "file": "Bluetooth_Mesh_Chat_Application.pptx",
