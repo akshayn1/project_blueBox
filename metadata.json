@@ -10,7 +10,7 @@
       "id": "a60fedc4-253b-48a4-991a-99f6856e953f",
       "name": "Bluetooth_Mesh_Network_App.pptx",
       "category": "Zeroth Review",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "versions": [
         {
           "version": 1,
@@ -21,6 +21,16 @@
           "timestamp": "2026-08-15T08:32:34.113Z",
           "size": 738588,
           "note": "First Upload"
+        },
+        {
+          "version": 2,
+          "path": "files/a60fedc4-253b-48a4-991a-99f6856e953f_v2.pptx",
+          "sha": "a6263ef5d822bfe25c48ae95c44ec7e03a4c9530",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/a60fedc4-253b-48a4-991a-99f6856e953f_v2.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-08-15T08:35:04.867Z",
+          "size": 79625,
+          "note": "for test "
         }
       ]
     },
@@ -62,6 +72,12 @@
     }
   ],
   "activity": [
+    {
+      "action": "New version",
+      "file": "Bluetooth_Mesh_Chat_Application.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-08-15T08:35:04.867Z"
+    },
     {
       "action": "Uploaded",
       "file": "Secure Remote Network Access Using Twin Gate and Raspberry Pi (1).pptx",
