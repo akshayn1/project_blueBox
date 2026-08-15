@@ -41,9 +41,33 @@
           "note": "First Upload"
         }
       ]
+    },
+    {
+      "id": "e7996104-2cc3-425e-8b1d-5354f9b5eb53",
+      "name": "Secure Remote Network Access Using Twin Gate and Raspberry Pi (1).pptx",
+      "category": "Zeroth Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/e7996104-2cc3-425e-8b1d-5354f9b5eb53_v1.pptx",
+          "sha": "9771bb773ee43d9799ca33660d9da5e93b644d10",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/e7996104-2cc3-425e-8b1d-5354f9b5eb53_v1.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-08-15T08:33:17.270Z",
+          "size": 738657,
+          "note": "First Upload"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Secure Remote Network Access Using Twin Gate and Raspberry Pi (1).pptx",
+      "user": "Akshay",
+      "timestamp": "2026-08-15T08:33:17.270Z"
+    },
     {
       "action": "Uploaded",
       "file": "proxy 0001.pptx",
