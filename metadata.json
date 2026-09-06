@@ -80,9 +80,33 @@
           "note": "First Upload"
         }
       ]
+    },
+    {
+      "id": "7a872b89-8a46-4ec6-9d6c-3c3be3c51666",
+      "name": "ESP32-based Deauthentication Attack Detection System.pdf",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/7a872b89-8a46-4ec6-9d6c-3c3be3c51666_v1.pdf",
+          "sha": "c1e921e9ae1d7eb2222395d6523a3815fc43888a",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/7a872b89-8a46-4ec6-9d6c-3c3be3c51666_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-06T09:34:49.497Z",
+          "size": 220530,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "ESP32-based Deauthentication Attack Detection System.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-06T09:34:49.497Z"
+    },
     {
       "action": "New version",
       "file": "Bluetooth_Mesh_Network_App.pptx",
