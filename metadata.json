@@ -98,9 +98,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "fc392056-2810-4c96-9444-93b04589ea59",
+      "name": "Secure Remote Network Accessneww.pdf",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/fc392056-2810-4c96-9444-93b04589ea59_v1.pdf",
+          "sha": "2c30cb2366f94f18fff9a53c31697b5290dc8b24",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/fc392056-2810-4c96-9444-93b04589ea59_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-06T09:35:30.556Z",
+          "size": 221226,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Secure Remote Network Accessneww.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-06T09:35:30.556Z"
+    },
     {
       "action": "Uploaded",
       "file": "ESP32-based Deauthentication Attack Detection System.pdf",
