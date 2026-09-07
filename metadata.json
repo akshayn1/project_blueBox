@@ -152,9 +152,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "cf50bca9-4759-46a5-a1ae-b97bc53511c3",
+      "name": "Aman1.pdf",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/cf50bca9-4759-46a5-a1ae-b97bc53511c3_v1.pdf",
+          "sha": "425647c213b8251ecb8b506ae334e42dc5c5df86",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/cf50bca9-4759-46a5-a1ae-b97bc53511c3_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-07T06:24:48.302Z",
+          "size": 1244354,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Aman1.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-07T06:24:48.302Z"
+    },
     {
       "action": "Uploaded",
       "file": "Akshay1.pdf",
