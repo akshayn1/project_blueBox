@@ -134,9 +134,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "0017a489-be88-4286-98c5-012f393c585a",
+      "name": "Akshay1.pdf",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/0017a489-be88-4286-98c5-012f393c585a_v1.pdf",
+          "sha": "a2134c27d6ebde9653f33da02d29d57ab84fd870",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/0017a489-be88-4286-98c5-012f393c585a_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-07T06:16:24.472Z",
+          "size": 1246722,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Akshay1.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-07T06:16:24.473Z"
+    },
     {
       "action": "Uploaded",
       "file": "vulnerability.pdf",
