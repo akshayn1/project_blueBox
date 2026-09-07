@@ -116,9 +116,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "41e30540-21d9-45b1-9bc9-b10979fb351c",
+      "name": "vulnerability.pdf",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/41e30540-21d9-45b1-9bc9-b10979fb351c_v1.pdf",
+          "sha": "3e813dc647f960d450a4eda1c1abd0e1cb592378",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/41e30540-21d9-45b1-9bc9-b10979fb351c_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-07T06:11:48.304Z",
+          "size": 1094920,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "vulnerability.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-07T06:11:48.305Z"
+    },
     {
       "action": "Uploaded",
       "file": "Secure Remote Network Accessneww.pdf",
