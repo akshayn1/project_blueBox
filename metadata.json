@@ -157,7 +157,7 @@
       "id": "f10dfdba-6699-4f99-936d-4664f82997c9",
       "name": "Business_Requirements_Document.docx",
       "category": "Zeroth Review",
-      "currentVersion": 2,
+      "currentVersion": 3,
       "versions": [
         {
           "version": 1,
@@ -178,11 +178,27 @@
           "timestamp": "2026-09-09T08:43:36.391Z",
           "size": 347757,
           "note": "New one"
+        },
+        {
+          "version": 3,
+          "path": "files/f10dfdba-6699-4f99-936d-4664f82997c9_v3.docx",
+          "sha": "892fa0555a85bbaee33d758db59bde29f5d7235c",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/f10dfdba-6699-4f99-936d-4664f82997c9_v3.docx",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-09T03:57:20.773Z",
+          "size": 272748,
+          "note": "removed watermark, finshed til goal objective"
         }
       ]
     }
   ],
   "activity": [
+    {
+      "action": "New version",
+      "file": "f10dfdba-6699-4f99-936d-4664f82997c9_v2.docx",
+      "user": "Akshay",
+      "timestamp": "2026-09-09T03:57:20.774Z"
+    },
     {
       "action": "New version",
       "file": "Business_Requirements_Document.docx",
