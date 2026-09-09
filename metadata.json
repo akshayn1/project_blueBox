@@ -206,27 +206,15 @@
           "note": ""
         }
       ]
-    },
-    {
-      "id": "e96feba6-ae5f-4764-baea-01c5ff6c9ca6",
-      "name": "Disaster Management Seminar.pptx",
-      "category": "Seminar",
-      "currentVersion": 1,
-      "versions": [
-        {
-          "version": 1,
-          "path": "files/e96feba6-ae5f-4764-baea-01c5ff6c9ca6_v1.pptx",
-          "sha": "d6add77a10281b97780733aee6df7b451a1839fb",
-          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/e96feba6-ae5f-4764-baea-01c5ff6c9ca6_v1.pptx",
-          "uploader": "Akshay",
-          "timestamp": "2026-09-09T06:01:55.120Z",
-          "size": 1745111,
-          "note": ""
-        }
-      ]
     }
   ],
   "activity": [
+    {
+      "action": "Deleted",
+      "file": "Disaster Management Seminar.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-09-09T07:20:10.368Z"
+    },
     {
       "action": "Uploaded",
       "file": "Disaster Management Seminar.pptx",
