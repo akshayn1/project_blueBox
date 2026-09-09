@@ -188,27 +188,15 @@
           "note": ""
         }
       ]
-    },
-    {
-      "id": "bfc1d62c-65ad-4e20-aded-959a7b4bbd40",
-      "name": "Aman3.pdf",
-      "category": "Seminar",
-      "currentVersion": 1,
-      "versions": [
-        {
-          "version": 1,
-          "path": "files/bfc1d62c-65ad-4e20-aded-959a7b4bbd40_v1.pdf",
-          "sha": "3e2e430253ebb99eee3062cba25524fb72fc3fc7",
-          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/bfc1d62c-65ad-4e20-aded-959a7b4bbd40_v1.pdf",
-          "uploader": "Akshay",
-          "timestamp": "2026-09-07T06:25:10.056Z",
-          "size": 1243618,
-          "note": ""
-        }
-      ]
     }
   ],
   "activity": [
+    {
+      "action": "Deleted",
+      "file": "Aman3.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-09T07:20:15.277Z"
+    },
     {
       "action": "Deleted",
       "file": "Disaster Management Seminar.pptx",
