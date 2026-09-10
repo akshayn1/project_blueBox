@@ -200,9 +200,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "2b64ffc7-83c5-4748-bf52-bc5180a00942",
+      "name": "Secure Remote Network Access Using Twin Gate and Raspberry Pi BRD.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/2b64ffc7-83c5-4748-bf52-bc5180a00942_v1.pdf",
+          "sha": "474b428bccdbc848ee67dabf63fe455b217c4160",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/2b64ffc7-83c5-4748-bf52-bc5180a00942_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-10T04:09:49.946Z",
+          "size": 433370,
+          "note": "pdf version of BRD"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Secure Remote Network Access Using Twin Gate and Raspberry Pi BRD.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-10T04:09:49.947Z"
+    },
     {
       "action": "New version",
       "file": "f10dfdba-6699-4f99-936d-4664f82997c9_v3.docx",
