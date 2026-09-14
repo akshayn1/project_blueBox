@@ -228,9 +228,33 @@
           "note": "pdf version of BRD"
         }
       ]
+    },
+    {
+      "id": "ec84d48d-0f9b-4e8e-8590-c766c170d1bd",
+      "name": "fc392056-2810-4c96-9444-93b04589ea59_v1 (1).pdf.pdf.pdf",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/ec84d48d-0f9b-4e8e-8590-c766c170d1bd_v1.pdf",
+          "sha": "9f6164edd17b61400928b505659aa06840df6641",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/ec84d48d-0f9b-4e8e-8590-c766c170d1bd_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-14T06:16:03.328Z",
+          "size": 255374,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "fc392056-2810-4c96-9444-93b04589ea59_v1 (1).pdf.pdf.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-14T06:16:03.331Z"
+    },
     {
       "action": "New version",
       "file": "f10dfdba-6699-4f99-936d-4664f82997c9_v4 (1).docx",
