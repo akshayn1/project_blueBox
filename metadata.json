@@ -246,9 +246,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "138b359c-b466-4123-a14c-ed66866600d5",
+      "name": "Secure Remote Network Access Using Twin Gate Seminar First Review.pptx",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/138b359c-b466-4123-a14c-ed66866600d5_v1.pptx",
+          "sha": "ed5033304bc7a826f52a965cf9ac706e7db7cd59",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/138b359c-b466-4123-a14c-ed66866600d5_v1.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-15T16:52:29.622Z",
+          "size": 720206,
+          "note": "First Upload and changed half"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Secure Remote Network Access Using Twin Gate Seminar First Review.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-09-15T16:52:29.622Z"
+    },
     {
       "action": "Uploaded",
       "file": "fc392056-2810-4c96-9444-93b04589ea59_v1 (1).pdf.pdf.pdf",
