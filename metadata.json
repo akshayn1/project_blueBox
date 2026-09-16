@@ -365,9 +365,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "c700cc62-4801-49cf-869a-818b0d64ec02",
+      "name": "SECURE REMOTE NETWORK ACCESS USING TWIN GATE AND RASPBERRY PI Abstract.pdf",
+      "category": "Zeroth Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/c700cc62-4801-49cf-869a-818b0d64ec02_v1.pdf",
+          "sha": "9f6164edd17b61400928b505659aa06840df6641",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/c700cc62-4801-49cf-869a-818b0d64ec02_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-16T08:45:06.226Z",
+          "size": 255374,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "SECURE REMOTE NETWORK ACCESS USING TWIN GATE AND RASPBERRY PI Abstract.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-16T08:45:06.226Z"
+    },
     {
       "action": "Deleted",
       "file": "Zero_Trust_Architecture_ZTA_A_Comprehensive_Survey.pdf",
