@@ -365,9 +365,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "527c4732-924a-4d8e-b62d-3a75db22f7f4",
+      "name": "A_Run-Time_Framework_for_Ensuring_Zero-Trust_State_of_Clients_Machines_in_Cloud_Environment.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/527c4732-924a-4d8e-b62d-3a75db22f7f4_v1.pdf",
+          "sha": "a122bd999afa2e575ed56cb85456f967a3f1a98d",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/527c4732-924a-4d8e-b62d-3a75db22f7f4_v1.pdf",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-16T09:03:01.703Z",
+          "size": 1586714,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "A_Run-Time_Framework_for_Ensuring_Zero-Trust_State_of_Clients_Machines_in_Cloud_Environment.pdf",
+      "user": "Akshay",
+      "timestamp": "2026-09-16T09:03:01.703Z"
+    },
     {
       "action": "Deleted",
       "file": "fc392056-2810-4c96-9444-93b04589ea59_v1 (1).pdf.pdf.pdf",
