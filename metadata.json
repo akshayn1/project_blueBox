@@ -310,9 +310,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "8e4c6595-5e10-4780-85ba-cbc1babb31fc",
+      "name": "Securing_IoT_Using_Lightweight_TCN_for_Edge_Deployment_on_Raspberry_Pi_4.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/8e4c6595-5e10-4780-85ba-cbc1babb31fc_v1.pdf",
+          "sha": "cc92d8df3ea63fedd29e9e2dedb7d1af55a95495",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/8e4c6595-5e10-4780-85ba-cbc1babb31fc_v1.pdf",
+          "uploader": "Shanid",
+          "timestamp": "2026-09-16T07:20:50.977Z",
+          "size": 5889703,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Securing_IoT_Using_Lightweight_TCN_for_Edge_Deployment_on_Raspberry_Pi_4.pdf",
+      "user": "Shanid",
+      "timestamp": "2026-09-16T07:20:50.977Z"
+    },
     {
       "action": "Uploaded",
       "file": "Standards-Compliant_Zero_Trust_Framework-Based_Software-Defined_Perimeter_SDP_for_Securing_Residential_IoT_Networks.pdf",
