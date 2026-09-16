@@ -383,9 +383,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "26661288-a278-4a9a-98d4-5d7e4e2d9826",
+      "name": "A_Zero-Trust_Network-Based_Access_Control_Scheme_for_Sustainable_and_Resilient_Industry_5.0.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/26661288-a278-4a9a-98d4-5d7e4e2d9826_v1.pdf",
+          "sha": "93af454d1c50fa303b3818ea0d720bdfaffb5168",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/26661288-a278-4a9a-98d4-5d7e4e2d9826_v1.pdf",
+          "uploader": "Abhishek",
+          "timestamp": "2026-09-16T07:34:27.601Z",
+          "size": 2065771,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "A_Zero-Trust_Network-Based_Access_Control_Scheme_for_Sustainable_and_Resilient_Industry_5.0.pdf",
+      "user": "Abhishek",
+      "timestamp": "2026-09-16T07:34:27.601Z"
+    },
     {
       "action": "Uploaded",
       "file": "Zero_Trust_Architecture_ZTA_A_Comprehensive_Survey.pdf",
