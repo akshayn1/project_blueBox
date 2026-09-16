@@ -365,9 +365,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "3429d4e0-eb79-4a74-9175-23f14bff3b6e",
+      "name": "Zero_Trust_Architecture_ZTA_A_Comprehensive_Survey.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/3429d4e0-eb79-4a74-9175-23f14bff3b6e_v1.pdf",
+          "sha": "3d520ca6bee90900a9608d95b50f27c7c3852580",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/3429d4e0-eb79-4a74-9175-23f14bff3b6e_v1.pdf",
+          "uploader": "Abhishek",
+          "timestamp": "2026-09-16T07:33:54.857Z",
+          "size": 2997434,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Zero_Trust_Architecture_ZTA_A_Comprehensive_Survey.pdf",
+      "user": "Abhishek",
+      "timestamp": "2026-09-16T07:33:54.863Z"
+    },
     {
       "action": "Uploaded",
       "file": "Zero_Trust_Architecture_ZTA_A_Comprehensive_Survey.pdf",
