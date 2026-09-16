@@ -274,9 +274,33 @@
           "note": "First Upload and changed half"
         }
       ]
+    },
+    {
+      "id": "ba85e76d-23a3-4d06-820a-e4a2c41d3d46",
+      "name": "ec84d48d-0f9b-4e8e-8590-c766c170d1bd_v1.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/ba85e76d-23a3-4d06-820a-e4a2c41d3d46_v1.pdf",
+          "sha": "9f6164edd17b61400928b505659aa06840df6641",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/ba85e76d-23a3-4d06-820a-e4a2c41d3d46_v1.pdf",
+          "uploader": "Shanid",
+          "timestamp": "2026-09-16T07:15:53.444Z",
+          "size": 255374,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "ec84d48d-0f9b-4e8e-8590-c766c170d1bd_v1.pdf",
+      "user": "Shanid",
+      "timestamp": "2026-09-16T07:15:53.444Z"
+    },
     {
       "action": "New version",
       "file": "f10dfdba-6699-4f99-936d-4664f82997c9_v5.docx",
