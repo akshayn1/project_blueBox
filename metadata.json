@@ -292,9 +292,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "e0c0a351-398a-42ed-a77e-45bbfba460fb",
+      "name": "Standards-Compliant_Zero_Trust_Framework-Based_Software-Defined_Perimeter_SDP_for_Securing_Residential_IoT_Networks.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/e0c0a351-398a-42ed-a77e-45bbfba460fb_v1.pdf",
+          "sha": "980cce9117c37cfa92293718fea80b8b7f02257e",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/e0c0a351-398a-42ed-a77e-45bbfba460fb_v1.pdf",
+          "uploader": "Shanid",
+          "timestamp": "2026-09-16T07:19:57.736Z",
+          "size": 6174574,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Standards-Compliant_Zero_Trust_Framework-Based_Software-Defined_Perimeter_SDP_for_Securing_Residential_IoT_Networks.pdf",
+      "user": "Shanid",
+      "timestamp": "2026-09-16T07:19:57.736Z"
+    },
     {
       "action": "Deleted",
       "file": "ec84d48d-0f9b-4e8e-8590-c766c170d1bd_v1.pdf",
