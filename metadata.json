@@ -329,9 +329,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "6e8a7d25-56d9-4798-9062-e7b1d4e83449",
+      "name": "Online_Laboratory_Access_Control_With_Zero_Trust_Approach_Twingate_Use_Case.pdf",
+      "category": "First Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/6e8a7d25-56d9-4798-9062-e7b1d4e83449_v1.pdf",
+          "sha": "cc292533ae3814139519dfb10213a667c896e3b6",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/6e8a7d25-56d9-4798-9062-e7b1d4e83449_v1.pdf",
+          "uploader": "Abhishek",
+          "timestamp": "2026-09-16T07:30:58.267Z",
+          "size": 648561,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Online_Laboratory_Access_Control_With_Zero_Trust_Approach_Twingate_Use_Case.pdf",
+      "user": "Abhishek",
+      "timestamp": "2026-09-16T07:30:58.271Z"
+    },
     {
       "action": "Uploaded",
       "file": "Securing_IoT_Using_Lightweight_TCN_for_Edge_Deployment_on_Raspberry_Pi_4.pdf",
