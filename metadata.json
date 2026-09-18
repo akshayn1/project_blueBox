@@ -244,7 +244,7 @@
       "id": "138b359c-b466-4123-a14c-ed66866600d5",
       "name": "Secure Remote Network Access Using Twin Gate Seminar First Review.pptx",
       "category": "First Review",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "versions": [
         {
           "version": 1,
@@ -255,6 +255,16 @@
           "timestamp": "2026-09-15T16:52:29.622Z",
           "size": 720206,
           "note": "First Upload and changed half"
+        },
+        {
+          "version": 2,
+          "path": "files/138b359c-b466-4123-a14c-ed66866600d5_v2.pptx",
+          "sha": "d6323042075fd6a355977760b34d2c6255955119",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/138b359c-b466-4123-a14c-ed66866600d5_v2.pptx",
+          "uploader": "Shanid",
+          "timestamp": "2026-09-18T07:35:38.793Z",
+          "size": 717904,
+          "note": "Changed some topics below the literature review"
         }
       ]
     },
@@ -386,6 +396,12 @@
     }
   ],
   "activity": [
+    {
+      "action": "New version",
+      "file": "138b359c-b466-4123-a14c-ed66866600d5_v1.pptx",
+      "user": "Shanid",
+      "timestamp": "2026-09-18T07:35:38.793Z"
+    },
     {
       "action": "Uploaded",
       "file": "A_Run-Time_Framework_for_Ensuring_Zero-Trust_State_of_Clients_Machines_in_Cloud_Environment.pdf",
