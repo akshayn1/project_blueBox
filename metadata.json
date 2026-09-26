@@ -244,7 +244,7 @@
       "id": "138b359c-b466-4123-a14c-ed66866600d5",
       "name": "Secure Remote Network Access Using Twin Gate Seminar First Review.pptx",
       "category": "First Review",
-      "currentVersion": 3,
+      "currentVersion": 4,
       "versions": [
         {
           "version": 1,
@@ -275,6 +275,16 @@
           "timestamp": "2026-09-18T04:00:00.610Z",
           "size": 706176,
           "note": "Changed the rest of topics until reference ,pending literature review"
+        },
+        {
+          "version": 4,
+          "path": "files/138b359c-b466-4123-a14c-ed66866600d5_v4.pptx",
+          "sha": "9e2341eba12f76c29017208f677e1f5baa9fcdca",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/138b359c-b466-4123-a14c-ed66866600d5_v4.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-09-26T06:48:05.286Z",
+          "size": 668447,
+          "note": "Latest changed by Abhishek"
         }
       ]
     },
@@ -406,6 +416,12 @@
     }
   ],
   "activity": [
+    {
+      "action": "New version",
+      "file": "138b359c-b466-4123-a14c-ed66866600d5_v3 (1).pptx",
+      "user": "Akshay",
+      "timestamp": "2026-09-26T06:48:05.287Z"
+    },
     {
       "action": "New version",
       "file": "138b359c-b466-4123-a14c-ed66866600d5_v1.pptx",
