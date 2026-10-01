@@ -413,9 +413,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "627e2a79-6692-4646-a4ec-7b205acdcd00",
+      "name": "ethicallab.docx",
+      "category": "IEEE Base Papers",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/627e2a79-6692-4646-a4ec-7b205acdcd00_v1.docx",
+          "sha": "c0e7ccbc337ffb4c79aa8a2062d71cea9eaa1402",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/627e2a79-6692-4646-a4ec-7b205acdcd00_v1.docx",
+          "uploader": "Akshay",
+          "timestamp": "2026-10-01T04:22:38.924Z",
+          "size": 18074,
+          "note": "For exams"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "ethicallab.docx",
+      "user": "Akshay",
+      "timestamp": "2026-10-01T04:22:38.927Z"
+    },
     {
       "action": "New version",
       "file": "138b359c-b466-4123-a14c-ed66866600d5_v3 (1).pptx",
