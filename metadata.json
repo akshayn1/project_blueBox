@@ -431,9 +431,33 @@
           "note": "For exams"
         }
       ]
+    },
+    {
+      "id": "dcad401e-ca13-4123-80ed-5742c9e05c76",
+      "name": "Remote_Network_Access_Seminar.pptx",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/dcad401e-ca13-4123-80ed-5742c9e05c76_v1.pptx",
+          "sha": "068e882a9e4ae9c3249fb037a59b3ef568392ee1",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/dcad401e-ca13-4123-80ed-5742c9e05c76_v1.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-10-05T01:23:44.128Z",
+          "size": 158876,
+          "note": ""
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Remote_Network_Access_Seminar.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-10-05T01:23:44.128Z"
+    },
     {
       "action": "Uploaded",
       "file": "ethicallab.docx",
