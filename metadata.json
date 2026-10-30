@@ -446,7 +446,7 @@
       "id": "dcad401e-ca13-4123-80ed-5742c9e05c76",
       "name": "Remote_Network_Access_Seminar.pptx",
       "category": "Seminar",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "versions": [
         {
           "version": 1,
@@ -457,11 +457,27 @@
           "timestamp": "2026-10-05T01:23:44.128Z",
           "size": 158876,
           "note": ""
+        },
+        {
+          "version": 2,
+          "path": "files/dcad401e-ca13-4123-80ed-5742c9e05c76_v2.pptx",
+          "sha": "09824bf1fbe93af97de6ebb01a9ad36a23a74fab",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/dcad401e-ca13-4123-80ed-5742c9e05c76_v2.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-10-30T11:26:18.441Z",
+          "size": 2029616,
+          "note": "Fully Completed"
         }
       ]
     }
   ],
   "activity": [
+    {
+      "action": "New version",
+      "file": "Remote_Network_Access_Seminar.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-10-30T11:26:18.441Z"
+    },
     {
       "action": "New version",
       "file": "First_Review.pptx",
