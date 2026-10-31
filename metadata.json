@@ -469,9 +469,33 @@
           "note": "Fully Completed"
         }
       ]
+    },
+    {
+      "id": "21a7e58b-3f10-4f8b-b695-fc858a16271c",
+      "name": "Remote_Network_Access_Seminar_Report.docx",
+      "category": "Seminar",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/21a7e58b-3f10-4f8b-b695-fc858a16271c_v1.docx",
+          "sha": "7e3d67cb1e7d0c8f469386d6028968020adca273",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/21a7e58b-3f10-4f8b-b695-fc858a16271c_v1.docx",
+          "uploader": "Akshay",
+          "timestamp": "2026-10-31T06:19:37.282Z",
+          "size": 1639847,
+          "note": "initial commit"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Remote_Network_Access_Seminar_Report.docx",
+      "user": "Akshay",
+      "timestamp": "2026-10-31T06:19:37.283Z"
+    },
     {
       "action": "New version",
       "file": "Remote_Network_Access_Seminar.pptx",
