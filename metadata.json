@@ -525,9 +525,33 @@
           "note": ""
         }
       ]
+    },
+    {
+      "id": "562aa146-f057-452a-b68d-960ea68e899c",
+      "name": "Secure_Remote_Final_Slide.pptx",
+      "category": "Third/Final Review",
+      "currentVersion": 1,
+      "versions": [
+        {
+          "version": 1,
+          "path": "files/562aa146-f057-452a-b68d-960ea68e899c_v1.pptx",
+          "sha": "a09e91a02c1596b1cebd52f38e051f3d1911b773",
+          "downloadUrl": "https://raw.githubusercontent.com/akshayn1/project_blueBox/main/files/562aa146-f057-452a-b68d-960ea68e899c_v1.pptx",
+          "uploader": "Akshay",
+          "timestamp": "2026-11-03T13:33:05.008Z",
+          "size": 2682728,
+          "note": "Inital Commit, two ui images pending on slide"
+        }
+      ]
     }
   ],
   "activity": [
+    {
+      "action": "Uploaded",
+      "file": "Secure_Remote_Final_Slide.pptx",
+      "user": "Akshay",
+      "timestamp": "2026-11-03T13:33:05.008Z"
+    },
     {
       "action": "New version",
       "file": "f10dfdba-6699-4f99-936d-4664f82997c9_v6 (1).docx",
